@@ -118,6 +118,20 @@ const defaultHeartImages = [
   'images/image_2/p14.PNG',
   'images/image_2/p15.PNG',
   'images/image_2/p16.PNG',
+  'images/image_2/p17.PNG',
+  'images/image_2/p18.PNG',
+  'images/image_2/p19.PNG',
+  'images/image_2/p20.PNG',
+  'images/image_2/p21.png',
+  'images/image_2/p22.png',
+  'images/image_2/p23.jpg',
+  'images/image_2/p24.jpg',
+  'images/image_2/p25.jpg',
+  'images/image_2/p26.jpg',
+  'images/image_2/p27.jpg',
+  'images/image_2/p28.jpg',
+  'images/image_2/p29.jpg',
+  'images/image_2/p30.jpg',
 ];
 
 const heartImages = [
